@@ -1,8 +1,11 @@
 Node Bittrex API
 =========
 
+Notice
+---
 This is a fork from  n0mad01. This Library will be actively mantained.  
 
+---
 Node Bittrex API is an asynchronous node.js library for the Bittrex API - https://bittrex.com/.
 The Bittrex API data can be received either as a GET request or via Websockets API (the Stream option will no longer be maintained and will be removed in further releases - please switch to Websockets if you want to use real Streams).
 
